@@ -33,7 +33,10 @@
 }
 
 #sign-in {
-    background: rgb(171, 184, 222);
+    background: url("../img/sign-in.jpg") center fixed;
+    /*https://picjumbo.com/work-in-progress-web-design-sketches/*/
+    background-size: cover;
+    height: 100vh;
 }
 
 .content {
