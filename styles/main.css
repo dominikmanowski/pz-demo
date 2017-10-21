@@ -15,7 +15,7 @@
     }
 
 .content {
-    background: rgba(94, 65, 49, 0.7);
+    background: rgba(94, 65, 49, 0.6);
     width: 100%;
     padding: 50px 20px;
     margin-top: 28px;
@@ -52,3 +52,10 @@
                  0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
+.content p {
+    font-size: 1.2em;
+}
+
+#sign-in form {
+    margin: 15px 0;
+}
